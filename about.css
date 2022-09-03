@@ -18,11 +18,13 @@ nav{
 a{
     padding-inline: 30px;
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 20px;
 }
 a:hover{
-    color: blue;
+    font-weight: bold;
+    font-size: 21px;
+    text-shadow: 2px 2px lightgrey;
 }
 footer{
     padding: 15px;
@@ -56,7 +58,10 @@ i:hover{
     align-items: center;
 }
 h1{
-    color: blue;
+    color: black;
     padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 4px 4px lightgrey;
 
 }

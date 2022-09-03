@@ -18,11 +18,13 @@ nav{
 a{
     padding-inline: 30px;
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 20px;
 }
 a:hover{
-    color: blue;
+    font-weight: bold;
+    font-size: 21px;
+    text-shadow: 2px 2px lightgrey;
 }
 
 footer{
@@ -57,7 +59,7 @@ textarea,input{
 
 .button2{
     border: 2px solid white;
-    background-color: blue;
+    background-color: #99D9EA;
     color: white;
     margin-right: 25px;
     font-weight: bold;
@@ -65,7 +67,7 @@ textarea,input{
 }
 .button2:hover{
     border-color: lightskyblue;
-    background-color: white;
+    background-color: #99D9EA;
     color: black;
 
 }

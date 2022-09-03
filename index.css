@@ -24,6 +24,7 @@ a{
 a:hover{
     font-weight: bold;
     font-size: 21px;
+    text-shadow: 2px 2px lightgrey;
 }
 .container{
     display: flex;
